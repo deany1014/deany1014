@@ -26,9 +26,9 @@ I'm **Dean**, a **Developer** with a passion for **Discord bots** and everything
 
 ### 🚀 Current Projects  
 
-| Project            | Description                                                                                   | Technologies             |  
+| **Project**            | **Description**                                                                                   | **Technologies**             |  
 |--------------------|-----------------------------------------------------------------------------------------------|--------------------------|  
-| **Polybotic**      | A Discord bot with a lot of advanced feature                     | `Python`, `discord.py`   |  
+| Polybotic      | A Discord bot with a lot of advanced feature                     | `Python`, `discord.py`   |  
 
 ---
 
